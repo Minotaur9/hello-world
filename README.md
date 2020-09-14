@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hello world,
+THis is Andrew Chester and I am here to lift all the wieghts you have on earth.
